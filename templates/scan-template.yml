@@ -1,0 +1,15 @@
+name: 32x
+display_name: Sega 32x
+format: mamesl
+mode: file
+exec: mame
+ini: ~/.mame/mame.ini
+rom_dir: MAME_BASE_DIR_SOFT_ROMS/SYSTEM_NAME
+art_dir: MAME_BASE_DIR_SOFT_ART/SYSTEM_NAME
+data_dir: MAME_BASE_DIR_HASH
+soft_lists:
+working_dir: system-working-dir
+extensions: zip
+mister_core: S32X
+extension: zip
+cmd: GAME_EXEC SYSTEM_NAME ROM_BASENAME

@@ -1,0 +1,4 @@
+#!/bin/bash
+
+mv out/userConfigurations.json.j2 $HOME/devel/ansible/freestation/tools/templates/steam-rom-manager_appimage/
+mv out/*.yaml $HOME/devel/emulation/scan-configs/cfg/

@@ -163,3 +163,4 @@ cython_debug/
 
 
 userConfigurations.json.j2
+out/*
