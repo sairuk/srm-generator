@@ -16,11 +16,11 @@ configs=[
         'scan_artdir': 'MAME_BASE_DIR_SOFT_ART/SYSTEM_NAME', 
         'data_dir': 'MAME_BASE_DIR_HASH', 
         'soft_lists': '', 
-        'working_dir': 'system-working-dir' , 
+        'working_dir': 'system-working-dir', 
         'extensions': 'zip', 
         'mister_core': 'Atari2600', 
         'extension': 'zip', 
-        'cmd': 'GAME_EXEC SYSTEM_NAME -cart ROM_BASENAME' 
+        'cmd': 'GAME_EXEC SYSTEM_NAME -cart ROM_BASENAME'
     },
     { 
         'title': 'Atari 800', 
@@ -30,16 +30,16 @@ configs=[
         'format': 'mamesl', 
         'mode': 'file', 
         'exec': 'mame', 
-        'ini': ' ~/.mame/mame.ini', 
+        'ini': '~/.mame/mame.ini', 
         'scan_romdir': 'MAME_BASE_DIR_SOFT_ROMS/SYSTEM_NAME', 
         'scan_artdir': 'MAME_BASE_DIR_SOFT_ART/SYSTEM_NAME', 
         'data_dir': 'MAME_BASE_DIR_HASH', 
         'soft_lists': '', 
-        'working_dir':'system-working-dir' , 
+        'working_dir':'system-working-dir', 
         'extensions': 'zip', 
         'mister_core': 'ATARI800', 
         'extension': 'zip', 
-        'cmd': 'GAME_EXEC SYSTEM_NAME ROM_BASENAME' 
+        'cmd': 'GAME_EXEC SYSTEM_NAME ROM_BASENAME'
     },
     { 
         'title': 'Atari 5200', 
@@ -49,16 +49,16 @@ configs=[
         'format': 'mamesl', 
         'mode': 'file', 
         'exec': 'mame', 
-        'ini': ' ~/.mame/mame.ini', 
+        'ini': '~/.mame/mame.ini', 
         'scan_romdir': 'MAME_BASE_DIR_SOFT_ROMS/SYSTEM_NAME', 
         'scan_artdir': 'MAME_BASE_DIR_SOFT_ART/SYSTEM_NAME', 
         'data_dir': 'MAME_BASE_DIR_HASH', 
         'soft_lists': '', 
-        'working_dir':'system-working-dir' , 
+        'working_dir':'system-working-dir', 
         'extensions': 'zip', 
         'mister_core': 'ATARI5200', 
         'extension': 'zip', 
-        'cmd': 'GAME_EXEC SYSTEM_NAME -cart ROM_BASENAME' 
+        'cmd': 'GAME_EXEC SYSTEM_NAME -cart ROM_BASENAME'
     },
     { 
         'title': 'Atari 7800', 
@@ -68,16 +68,16 @@ configs=[
         'format': 'mamesl', 
         'mode': 'file', 
         'exec': 'mame', 
-        'ini': ' ~/.mame/mame.ini', 
+        'ini': '~/.mame/mame.ini', 
         'scan_romdir': 'MAME_BASE_DIR_SOFT_ROMS/SYSTEM_NAME', 
         'scan_artdir': 'MAME_BASE_DIR_SOFT_ART/SYSTEM_NAME', 
         'data_dir': 'MAME_BASE_DIR_HASH', 
         'soft_lists': '', 
-        'working_dir':'system-working-dir' , 
+        'working_dir':'system-working-dir', 
         'extensions': 'zip', 
         'mister_core': 'ATARI7800', 
         'extension': 'zip', 
-        'cmd': 'GAME_EXEC SYSTEM_NAME -cart ROM_BASENAME' 
+        'cmd': 'GAME_EXEC SYSTEM_NAME -cart ROM_BASENAME'
     },
     { 
         'title': 'Atari Lynx', 
@@ -87,16 +87,16 @@ configs=[
         'format': 'mamesl', 
         'mode': 'file', 
         'exec': 'mame', 
-        'ini': ' ~/.mame/mame.ini', 
+        'ini': '~/.mame/mame.ini', 
         'scan_romdir': 'MAME_BASE_DIR_SOFT_ROMS/SYSTEM_NAME', 
         'scan_artdir': 'MAME_BASE_DIR_SOFT_ART/SYSTEM_NAME', 
         'data_dir': 'MAME_BASE_DIR_HASH', 
         'soft_lists': '', 
-        'working_dir':'system-working-dir' , 
+        'working_dir':'system-working-dir', 
         'extensions': 'zip', 
         'mister_core': 'AtariLynx', 
         'extension': 'zip', 
-        'cmd': 'GAME_EXEC SYSTEM_NAME ROM_BASENAME' 
+        'cmd': 'GAME_EXEC SYSTEM_NAME ROM_BASENAME'
     },
     { 
         'title': 'Astrocade', 
@@ -106,16 +106,16 @@ configs=[
         'format': 'mamesl', 
         'mode': 'file', 
         'exec': 'mame', 
-        'ini': ' ~/.mame/mame.ini', 
+        'ini': '~/.mame/mame.ini', 
         'scan_romdir': 'MAME_BASE_DIR_SOFT_ROMS/SYSTEM_NAME', 
         'scan_artdir': 'MAME_BASE_DIR_SOFT_ART/SYSTEM_NAME', 
         'data_dir': 'MAME_BASE_DIR_HASH', 
         'soft_lists': '', 
-        'working_dir':'system-working-dir' , 
+        'working_dir':'system-working-dir', 
         'extensions': 'zip', 
         'mister_core': 'Astrocade', 
         'extension': 'zip', 
-        'cmd': 'GAME_EXEC SYSTEM_NAME -cart ROM_BASENAME' 
+        'cmd': 'GAME_EXEC SYSTEM_NAME -cart ROM_BASENAME'
     },
     { 
         'title': 'AdventureVision', 
@@ -125,16 +125,16 @@ configs=[
         'format': 'mamesl', 
         'mode': 'file', 
         'exec': 'mame', 
-        'ini': ' ~/.mame/mame.ini', 
+        'ini': '~/.mame/mame.ini', 
         'scan_romdir': 'MAME_BASE_DIR_SOFT_ROMS/SYSTEM_NAME', 
         'scan_artdir': 'MAME_BASE_DIR_SOFT_ART/SYSTEM_NAME', 
         'data_dir': 'MAME_BASE_DIR_HASH', 
         'soft_lists': '', 
-        'working_dir':'system-working-dir' , 
+        'working_dir':'system-working-dir', 
         'extensions': 'zip', 
         'mister_core': 'AVision', 
         'extension': 'zip', 
-        'cmd': 'GAME_EXEC SYSTEM_NAME ROM_BASENAME' 
+        'cmd': 'GAME_EXEC SYSTEM_NAME ROM_BASENAME'
     },
     { 
         'title': 'Bandai Wonderswan Color',
@@ -149,11 +149,11 @@ configs=[
         'scan_artdir': 'MAME_BASE_DIR_SOFT_ART/SYSTEM_NAME', 
         'data_dir': 'MAME_BASE_DIR_HASH', 
         'soft_lists': '', 
-        'working_dir': 'system-working-dir' , 
+        'working_dir': 'system-working-dir', 
         'extensions': 'zip', 
         'mister_core': 'NONE', 
         'extension': 'zip', 
-        'cmd': 'GAME_EXEC SYSTEM_NAME ROM_BASENAME' 
+        'cmd': 'GAME_EXEC SYSTEM_NAME ROM_BASENAME'
     },
     { 
         'title': 'Amstrad GX4000',
@@ -168,11 +168,11 @@ configs=[
         'scan_artdir': 'MAME_BASE_DIR_SOFT_ART/SYSTEM_NAME', 
         'data_dir': 'MAME_BASE_DIR_HASH', 
         'soft_lists': '', 
-        'working_dir': 'system-working-dir' , 
+        'working_dir': 'system-working-dir', 
         'extensions': 'zip', 
         'mister_core': 'NONE', 
         'extension': 'zip', 
-        'cmd': 'GAME_EXEC SYSTEM_NAME ROM_BASENAME' 
+        'cmd': 'GAME_EXEC SYSTEM_NAME ROM_BASENAME'
     },
     { 
         'title': 'Colecovision',
@@ -187,11 +187,11 @@ configs=[
         'scan_artdir': 'MAME_BASE_DIR_SOFT_ART/SYSTEM_NAM', 
         'data_dir': 'MAME_BASE_DIR_HASH', 
         'soft_lists': '', 
-        'working_dir': 'system-working-dir' , 
+        'working_dir': 'system-working-dir', 
         'extensions': 'zip', 
         'mister_core': 'ColecoVision', 
         'extension': 'zip', 
-        'cmd': 'GAME_EXEC SYSTEM_NAME ROM_BASENAME' 
+        'cmd': 'GAME_EXEC SYSTEM_NAME ROM_BASENAME'
     },
     { 
         'title': 'Commodore 64',
@@ -206,7 +206,7 @@ configs=[
         'scan_artdir': '', 
         'data_dir': '', 
         'soft_lists': '', 
-        'working_dir': 'system-working-dir' , 
+        'working_dir': 'system-working-dir', 
         'extensions': 'zip', 
         'mister_core': 'C64', 
         'extension': 'zip', 
@@ -225,11 +225,11 @@ configs=[
         'scan_artdir': 'MAME_BASE_DIR_SOFT_ART/SYSTEM_NAME', 
         'data_dir': 'MAME_BASE_DIR_HASH', 
         'soft_lists': '', 
-        'working_dir':'system-working-dir' , 
+        'working_dir':'system-working-dir', 
         'extensions': 'zip', 
         'mister_core': 'C64', 
         'extension': 'zip', 
-        'cmd': 'GAME_EXEC c64p -joy1 joy -joy2 joy -autoboot_script /var/lib/freestation/config/mame/autoboots/c64_diskloader.lua -autoboot_delay 2 -flop ROM_BASENAME' 
+        'cmd': 'GAME_EXEC c64p -joy1 joy -joy2 joy -autoboot_script /var/lib/freestation/config/mame/autoboots/c64_diskloader.lua -autoboot_delay 2 -flop ROM_BASENAME'
     },
     { 
         'title': 'Commodore Amiga',
@@ -244,11 +244,11 @@ configs=[
         'scan_artdir': 'MAME_BASE_DIR_SOFT_ART/SYSTEM_NAME', 
         'data_dir': 'system-data-dir', 
         'soft_lists': '', 
-        'working_dir':'system-working-dir' , 
+        'working_dir':'system-working-dir', 
         'extensions': 'adf, ipf', 
         'mister_core': 'Amiga', 
         'extension': 'ipf', 
-        'cmd': 'GAME_EXEC --amiga-model=A500 --floppy-drive-0=ROM_PATH --fullscreen' 
+        'cmd': 'GAME_EXEC --amiga-model=A500 --floppy-drive-0=ROM_PATH --fullscreen'
     },
     { 
         'title': 'Flatpaks', 
@@ -263,11 +263,11 @@ configs=[
         'scan_artdir': '', 
         'data_dir': '', 
         'soft_lists': '', 
-        'working_dir': 'system-working-dir' , 
+        'working_dir': 'system-working-dir', 
         'extensions': 'desktop', 
         'mister_core': 'NONE', 
         'extension': 'desktop', 
-        'cmd': 'exo-open "ROM_PATH"' 
+        'cmd': 'exo-open "ROM_PATH"'
     },
     { 
         'title': 'MAME',
@@ -282,11 +282,11 @@ configs=[
         'scan_artdir': 'MAME_BASE_DIR_SOFT_ART/SYSTEM_NAME', 
         'data_dir': 'system-data-dir', 
         'soft_lists': '', 
-        'working_dir': 'system-working-dir' , 
+        'working_dir': 'system-working-dir', 
         'extensions': 'zip', 
         'mister_core': 'mame', 
         'extension': 'zip', 
-        'cmd': 'GAME_EXEC ROM_NAME' 
+        'cmd': 'GAME_EXEC ROM_NAME'
     },
     { 
         'title': 'Microsoft MSX1',
@@ -301,11 +301,11 @@ configs=[
         'scan_artdir': 'MAME_BASE_DIR_SOFT_ART/SYSTEM_NAME', 
         'data_dir': '', 
         'soft_lists': '', 
-        'working_dir': 'system-working-dir' , 
+        'working_dir': 'system-working-dir', 
         'extensions': 'zip', 
         'mister_core': 'MSX1', 
         'extension': 'zip', 
-        'cmd': 'GAME_EXEC SYSTEM_NAME ROM_BASENAME' 
+        'cmd': 'GAME_EXEC SYSTEM_NAME ROM_BASENAME'
     },
     { 
         'title': 'Microsoft XBOX',
@@ -320,11 +320,11 @@ configs=[
         'scan_artdir': '', 
         'data_dir': '', 
         'soft_lists': '', 
-        'working_dir': 'system-working-dir' , 
+        'working_dir': 'system-working-dir', 
         'extensions': 'iso', 
         'mister_core': 'NONE', 
         'extension': 'iso', 
-        'cmd': 'GAME_EXEC -full-screen -dvd_path "ROM_PATH"' 
+        'cmd': 'GAME_EXEC -full-screen -dvd_path "ROM_PATH"'
     },
     { 
         'title': 'Microsoft XBOX 360',
@@ -339,11 +339,11 @@ configs=[
         'scan_artdir': 'MAME_BASE_DIR_SOFT_ART/SYSTEM_NAME', 
         'data_dir': 'MAME_BASE_DIR_HASH', 
         'soft_lists': '', 
-        'working_dir': 'system-working-dir' , 
+        'working_dir': 'system-working-dir', 
         'extensions': 'zip', 
         'mister_core': 'NONE', 
         'extension': 'zip', 
-        'cmd': 'GAME_EXEC ROM_PATH' 
+        'cmd': 'GAME_EXEC ROM_PATH'
     },
     { 
         'title': 'Nintendo 3DS',
@@ -358,11 +358,11 @@ configs=[
         'scan_artdir': '', 
         'data_dir': '', 
         'soft_lists': '', 
-        'working_dir': 'system-working-dir' , 
+        'working_dir': 'system-working-dir', 
         'extensions': '3ds', 
         'mister_core': 'NONE', 
         'extension': '3ds', 
-        'cmd': 'GAME_EXEC "ROM_PATH"' 
+        'cmd': 'GAME_EXEC "ROM_PATH"'
     },
     { 
         'title': 'SNK NEO-GEO CD',
@@ -377,11 +377,11 @@ configs=[
         'scan_artdir': 'MAME_BASE_DIR_SOFT_ART/SYSTEM_NAME', 
         'data_dir': 'MAME_BASE_DIR_HASH', 
         'soft_lists': '', 
-        'working_dir': 'system-working-dir' , 
+        'working_dir': 'system-working-dir', 
         'extensions': 'zip', 
         'mister_core': 'NeoGeo-CD', 
         'extension': 'zip', 
-        'cmd': 'GAME_EXEC SYSTEM_NAME ROM_BASENAME' 
+        'cmd': 'GAME_EXEC SYSTEM_NAME ROM_BASENAME'
     },
     { 
         'title': 'SNK NEO-GEO AES',
@@ -396,11 +396,11 @@ configs=[
         'scan_artdir': 'MAME_BASE_DIR_SOFT_ART/SYSTEM_NAME', 
         'data_dir': 'MAME_BASE_DIR_HASH', 
         'soft_lists': '', 
-        'working_dir': 'system-working-dir' , 
+        'working_dir': 'system-working-dir', 
         'extensions': 'zip', 
         'mister_core': 'NEOGEO', 
         'extension': 'zip', 
-        'cmd': 'GAME_EXEC SYSTEM_NAME ROM_BASENAME' 
+        'cmd': 'GAME_EXEC SYSTEM_NAME ROM_BASENAME'
     },
     { 
         'title': 'Nintendo 64',
@@ -415,11 +415,11 @@ configs=[
         'scan_artdir': 'MAME_BASE_DIR_SOFT_ART/SYSTEM_NAME', 
         'data_dir': 'MAME_BASE_DIR_HASH', 
         'soft_lists': '', 
-        'working_dir': 'system-working-dir' , 
+        'working_dir': 'system-working-dir', 
         'extensions': 'z64', 
         'mister_core': 'N64', 
         'extension': 'z64', 
-        'cmd': 'GAME_EXEC ROM_PATH' 
+        'cmd': 'GAME_EXEC ROM_PATH'
     },
     { 
         'title': 'Nintendo Entertainment System',
@@ -434,11 +434,11 @@ configs=[
         'scan_artdir': 'MAME_BASE_DIR_SOFT_ART/SYSTEM_NAME', 
         'data_dir': 'MAME_BASE_DIR_HASH', 
         'soft_lists': '', 
-        'working_dir': 'system-working-dir' , 
+        'working_dir': 'system-working-dir', 
         'extensions': 'zip', 
         'mister_core': 'NES', 
         'extension': 'zip', 
-        'cmd': 'GAME_EXEC SYSTEM_NAME ROM_BASENAME' 
+        'cmd': 'GAME_EXEC SYSTEM_NAME ROM_BASENAME'
     },
     { 
         'title': 'Nintendo GameBoy Advance',
@@ -453,11 +453,11 @@ configs=[
         'scan_artdir': 'MAME_BASE_DIR_SOFT_ART/SYSTEM_NAME', 
         'data_dir': 'MAME_BASE_DIR_HASH', 
         'soft_lists': '', 
-        'working_dir': 'system-working-dir' , 
+        'working_dir': 'system-working-dir', 
         'extensions': 'zip', 
         'mister_core': 'GBA', 
         'extension': 'zip', 
-        'cmd': 'GAME_EXEC SYSTEM_NAME ROM_BASENAME' 
+        'cmd': 'GAME_EXEC SYSTEM_NAME ROM_BASENAME'
     },
     { 
         'title': 'Nintendo Gameboy (Color)',
@@ -472,11 +472,11 @@ configs=[
         'scan_artdir': 'MAME_BASE_DIR_SOFT_ART/SYSTEM_NAME', 
         'data_dir': 'MAME_BASE_DIR_HASH', 
         'soft_lists': '', 
-        'working_dir': 'system-working-dir' , 
+        'working_dir': 'system-working-dir', 
         'extensions': 'zip', 
         'mister_core': 'GBC', 
         'extension': 'zip', 
-        'cmd': 'GAME_EXEC SYSTEM_NAME ROM_BASENAME' 
+        'cmd': 'GAME_EXEC SYSTEM_NAME ROM_BASENAME'
         
     },
     { 
@@ -492,11 +492,11 @@ configs=[
         'scan_artdir': '', 
         'data_dir': '', 
         'soft_lists': '', 
-        'working_dir': 'system-working-dir' , 
+        'working_dir': 'system-working-dir', 
         'extensions': 'iso', 
         'mister_core': 'NONE', 
         'extension': 'iso', 
-        'cmd': 'GAME_EXEC -b -e "ROM_PATH"' 
+        'cmd': 'GAME_EXEC -b -e "ROM_PATH"'
     },
     { 
         'title': 'Nintendo Switch',
@@ -511,11 +511,11 @@ configs=[
         'scan_artdir': '', 
         'data_dir': '', 
         'soft_lists': '', 
-        'working_dir': 'system-working-dir' , 
+        'working_dir': 'system-working-dir', 
         'extensions': 'nsp', 
         'mister_core': 'NONE', 
         'extension': 'nsp', 
-        'cmd': 'GAME_EXEC SYSTEM_NAME -cart "ROM_PATH"' 
+        'cmd': 'GAME_EXEC SYSTEM_NAME -cart "ROM_PATH"'
     },
     { 
         'title': 'Nintendo Wii',
@@ -530,11 +530,11 @@ configs=[
         'scan_artdir': '', 
         'data_dir': '', 
         'soft_lists': '', 
-        'working_dir': 'system-working-dir' , 
+        'working_dir': 'system-working-dir', 
         'extensions': 'iso, wbfs', 
         'mister_core': 'NONE', 
         'extension': 'iso', 
-        'cmd': 'GAME_EXEC -b -e "ROM_PATH"' 
+        'cmd': 'GAME_EXEC -b -e "ROM_PATH"'
     },
     { 
         'title': 'Nintendo Wii-U',
@@ -549,11 +549,11 @@ configs=[
         'scan_artdir': '', 
         'data_dir': '', 
         'soft_lists': '', 
-        'working_dir': 'system-working-dir' , 
+        'working_dir': 'system-working-dir', 
         'extensions': 'wud', 
         'mister_core': 'NONE', 
         'extension': 'wud', 
-        'cmd': 'GAME_EXEC -g "ROM_PATH"' 
+        'cmd': 'GAME_EXEC -g "ROM_PATH"'
     },
     { 
         'title': 'Non-Steam Shortcuts',
@@ -568,11 +568,11 @@ configs=[
         'scan_artdir': '', 
         'data_dir': '', 
         'soft_lists': '', 
-        'working_dir':'' , 
+        'working_dir':'', 
         'extensions': '', 
         'mister_core': 'NONE', 
         'extension': '', 
-        'cmd': '' 
+        'cmd': ''
     },
     { 
         'title': 'SEGA Dreamcast',
@@ -587,11 +587,11 @@ configs=[
         'scan_artdir': 'MAME_BASE_DIR_SOFT_ART/SYSTEM_NAME', 
         'data_dir': 'system-data-dir', 
         'soft_lists': '', 
-        'working_dir': 'system-working-dir' , 
+        'working_dir': 'system-working-dir', 
         'extensions': 'chd', 
         'mister_core': 'NONE', 
         'extension': 'chd', 
-        'cmd': 'GAME_EXEC "ROM_PATH"' 
+        'cmd': 'GAME_EXEC "ROM_PATH"'
     },
     { 
         'title': 'SEGA GameGear',
@@ -606,11 +606,11 @@ configs=[
         'scan_artdir': 'MAME_BASE_DIR_SOFT_ART/SYSTEM_NAME', 
         'data_dir': 'MAME_BASE_DIR_HASH', 
         'soft_lists': '', 
-        'working_dir': 'system-working-dir' , 
+        'working_dir': 'system-working-dir', 
         'extensions': 'zip', 
         'mister_core': 'GameGear', 
         'extension': 'zip', 
-        'cmd': 'GAME_EXEC SYSTEM_NAME ROM_BASENAME' 
+        'cmd': 'GAME_EXEC SYSTEM_NAME ROM_BASENAME'
     },
     { 
         'title': 'SEGA Master System',
@@ -625,11 +625,11 @@ configs=[
         'scan_artdir': 'MAME_BASE_DIR_SOFT_ART/SYSTEM_NAME', 
         'data_dir': 'MAME_BASE_DIR_HASH', 
         'soft_lists': '', 
-        'working_dir': 'system-working-dir' , 
+        'working_dir': 'system-working-dir', 
         'extensions': 'zip', 
         'mister_core': 'SMS', 
         'extension': 'zip', 
-        'cmd': 'GAME_EXEC SYSTEM_NAME ROM_BASENAME' 
+        'cmd': 'GAME_EXEC SYSTEM_NAME ROM_BASENAME'
     },
     { 
         'title': 'SEGA Mega Drive',
@@ -644,11 +644,11 @@ configs=[
         'scan_artdir': 'MAME_BASE_DIR_SOFT_ART/SYSTEM_NAME', 
         'data_dir': 'MAME_BASE_DIR_HASH', 
         'soft_lists': '', 
-        'working_dir': 'system-working-dir' , 
+        'working_dir': 'system-working-dir', 
         'extensions': 'zip', 
         'mister_core': 'MegaDrive', 
         'extension': 'zip', 
-        'cmd': 'GAME_EXEC SYSTEM_NAME ROM_BASENAME' 
+        'cmd': 'GAME_EXEC SYSTEM_NAME ROM_BASENAME'
     },
     { 
         'title': 'SEGA Mega CD',
@@ -663,11 +663,11 @@ configs=[
         'scan_artdir': 'MAME_BASE_DIR_SOFT_ART/SYSTEM_NAME', 
         'data_dir': 'MAME_BASE_DIR_HASH', 
         'soft_lists': '', 
-        'working_dir': 'system-working-dir' , 
+        'working_dir': 'system-working-dir', 
         'extensions': 'zip', 
         'mister_core': 'MegaCD', 
         'extension': 'zip', 
-        'cmd': 'GAME_EXEC SYSTEM_NAME ROM_BASENAME' 
+        'cmd': 'GAME_EXEC SYSTEM_NAME ROM_BASENAME'
     },
     { 
         'title': 'SEGA Model 3',
@@ -682,11 +682,11 @@ configs=[
         'scan_artdir': '', 
         'data_dir': '', 
         'soft_lists': '', 
-        'working_dir': 'system-working-dir' , 
+        'working_dir': 'system-working-dir', 
         'extensions': 'zip', 
         'mister_core': 'NONE', 
         'extension': 'zip', 
-        'cmd': 'GAME_EXEC -fullscreen -res=1280,720 -legacy3d "ROM_PATH"' 
+        'cmd': 'GAME_EXEC -fullscreen -res=1280,720 -legacy3d "ROM_PATH"'
     },
     { 
         'title': 'Sony PlayStation',
@@ -701,11 +701,11 @@ configs=[
         'scan_artdir': 'MAME_BASE_DIR_SOFT_ART/SYSTEM_NAME', 
         'data_dir': 'system-data-dir', 
         'soft_lists': '', 
-        'working_dir': 'system-working-dir' , 
+        'working_dir': 'system-working-dir', 
         'extensions': 'chd', 
         'mister_core': 'NONE', 
         'extension': 'chd', 
-        'cmd': 'GAME_EXEC "ROM_PATH"' 
+        'cmd': 'GAME_EXEC "ROM_PATH"'
     },
     { 
         'title': 'Sony PlayStation 2',
@@ -720,11 +720,11 @@ configs=[
         'scan_artdir': 'MAME_BASE_DIR_SOFT_ART/SYSTEM_NAME', 
         'data_dir': 'system-data-dir', 
         'soft_lists': '', 
-        'working_dir': 'system-working-dir' , 
+        'working_dir': 'system-working-dir', 
         'extensions': 'iso', 
         'mister_core': 'NONE', 
         'extension': 'iso', 
-        'cmd': 'GAME_EXEC "ROM_PATH"' 
+        'cmd': 'GAME_EXEC "ROM_PATH"'
     },
     { 
         'title': 'Sony PlayStation 3"',
@@ -739,7 +739,7 @@ configs=[
         'scan_artdir': 'MAME_BASE_DIR_SOFT_ART/SYSTEM_NAME', 
         'data_dir': '', 
         'soft_lists': '', 
-        'working_dir': 'system-working-dir' , 
+        'working_dir': 'system-working-dir', 
         'extensions': 'iso', 
         'mister_core': 'NONE', 
         'extension': 'iso', 
@@ -758,7 +758,7 @@ configs=[
         'scan_artdir': 'MAME_BASE_DIR_SOFT_ART/SYSTEM_NAME', 
         'data_dir': 'MAME_BASE_DIR_HASH', 
         'soft_lists': '', 
-        'working_dir': 'system-working-dir' , 
+        'working_dir': 'system-working-dir', 
         'extensions': 'zip', 
         'mister_core': 'SNES', 
         'extension': 'zip', 
@@ -777,7 +777,7 @@ configs=[
         'scan_artdir': 'MAME_BASE_DIR_SOFT_ART/SYSTEM_NAME', 
         'data_dir': 'MAME_BASE_DIR_HASH', 
         'soft_lists': '', 
-        'working_dir': 'system-working-dir' , 
+        'working_dir': 'system-working-dir', 
         'extensions': 'zip', 
         'mister_core': 'SNES', 
         'extension': 'zip', 
@@ -796,7 +796,7 @@ configs=[
         'scan_artdir': 'MAME_BASE_DIR_SOFT_ART/SYSTEM_NAME', 
         'data_dir': 'MAME_BASE_DIR_HASH', 
         'soft_lists': '',
-        'working_dir': 'system-working-dir' , 
+        'working_dir': 'system-working-dir', 
         'extensions': 'zip', 
         'mister_core': 'S32X', 
         'extension': 'zip', 
@@ -815,7 +815,7 @@ configs=[
         'scan_artdir': 'MAME_BASE_DIR_SOFT_ART/SYSTEM_NAME', 
         'data_dir': 'MAME_BASE_DIR_HASH', 
         'soft_lists': '',
-        'working_dir': 'system-working-dir' , 
+        'working_dir': 'system-working-dir', 
         'extensions': 'zip', 
         'mister_core': 'Saturn', 
         'extension': 'zip', 
@@ -834,7 +834,7 @@ configs=[
         'scan_artdir': 'MAME_BASE_DIR_SOFT_ART/SYSTEM_NAME', 
         'data_dir': 'MAME_BASE_DIR_HASH', 
         'soft_lists': '',
-        'working_dir': 'system-working-dir' , 
+        'working_dir': 'system-working-dir', 
         'extensions': 'zip', 
         'mister_core': 'MegaCD', 
         'extension': 'zip', 
@@ -853,7 +853,7 @@ configs=[
         'scan_artdir': 'MAME_BASE_DIR_SOFT_ART/SYSTEM_NAME', 
         'data_dir': 'MAME_BASE_DIR_HASH', 
         'soft_lists': '',
-        'working_dir': 'system-working-dir' , 
+        'working_dir': 'system-working-dir', 
         'extensions': 'zip', 
         'mister_core': 'TGFX16', 
         'extension': 'zip', 
@@ -872,7 +872,7 @@ configs=[
         'scan_artdir': '/mnt/roms/Fantasy Console/PICO-8 Screenshots ', 
         'data_dir': '/mnt/roms/Fantasy Console/PICO-8 Metadata', 
         'soft_lists': '',
-        'working_dir': 'system-working-dir' , 
+        'working_dir': 'system-working-dir', 
         'extensions': 'zip', 
         'mister_core': 'NONE', 
         'extension': 'zip', 
@@ -894,11 +894,11 @@ configs=[
     'scan_artdir': '', 
     'data_dir': '', 
     'soft_lists': '', 
-    'working_dir':'' , 
+    'working_dir':'', 
     'extensions': '', 
     'mister_core': '', 
     'extension': '', 
-    'cmd': '' 
+    'cmd': ''
 },
 """
 
